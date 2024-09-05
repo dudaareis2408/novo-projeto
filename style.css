@@ -11,6 +11,11 @@ body{
 button{
     background-color: black;
     font-family:"Playfair Display", system-ui;
-    
-    
+}
+
+.passo{
+    display: none;
+}
+.passo.ativo{
+    display: block;
 }
